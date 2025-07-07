@@ -6,7 +6,7 @@
    font-family: "Pixelify Sans", sans-serif;
 }
 body {
-  background-image: url("public/background3.webp");
+  background-image: url("media/background3.webp");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
