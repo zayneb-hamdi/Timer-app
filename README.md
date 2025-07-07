@@ -11,7 +11,7 @@ Welcome to **My Timer App** — a minimalist yet engaging web timer ⏳ with mus
 - ▶️ **Play**, ⏹ **Stop**, 🔄 **Reset** buttons
 - ⏲ Real-time display in `MM:SS` format
 - 🎵 Background music when timer runs
-- 💡 Clean, modern UI with inspirational design
+- 💡 Clean, Pixel Art UI with inspirational design
 
 ---
 
@@ -34,7 +34,7 @@ Welcome to **My Timer App** — a minimalist yet engaging web timer ⏳ with mus
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 - Optional music: `soundTrack.mp3`
 
 ---
@@ -52,4 +52,6 @@ Made with love, logic and lo-fi beats.
 Feel free to **fork**, **star**, or suggest improvements!
 
 ---
+## Author
 
+zayneb hamdi
