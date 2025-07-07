@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="title">
+        "Every second counts .So make it meaningful."
+    </div>
+    <div class="timer-container">
+        <div class="timer" id="timer">00:00</div>
+        <div class="controller">
+            <button onclick="play()">play</button>
+            <button onclick="reset()">reset</button>
+            <button onclick="stop()">stop</button>
+        </div>
+    </div>
+    <audio src="public/soundTrack.mp3" id="musicBackground" preload="auto"></audio>
+    <script src="script.js"></script>
+</body>
+</html>
